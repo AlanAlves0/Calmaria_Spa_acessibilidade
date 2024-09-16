@@ -139,6 +139,11 @@
         padding: 15px 0;
     }
 
+    .enviar-buton:hover{
+        cursor: pointer;
+        background: var(--lilas-escuro);
+    }
+
 }
 
 @media screen and (min-width: 1440px) {
